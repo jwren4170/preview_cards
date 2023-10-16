@@ -59,6 +59,17 @@ I learned a little bit about mixed-blend-mode. The css below allowed the text in
 to be transparent so the background of the card could show through.
 
 ```css
+.card .btn {
+  border-radius: 100vw;
+  border: none;
+  outline: none;
+  padding: 0.75rem 1.5rem;
+  mix-blend-mode: screen;
+  font-family: 'lexenddeca';
+  cursor: pointer;
+  background: var(--light-gray);
+}
+
 .card .btn::before {
   mix-blend-mode: color-dodge;
 }
