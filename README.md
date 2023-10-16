@@ -71,4 +71,4 @@ I really need to buckle on more of the javascript stuff.
 ## Author
 
 - Website - JWord - https://preview-cards-seven.vercel.app/
-- Frontend Mentor - @jwren4170 - https://www.frontendmentor.io/profile/@jwren4170
+- Frontend Mentor - @jwren4170 - https://www.frontendmentor.io/profile/jwren4170
